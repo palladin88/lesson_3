@@ -35,11 +35,11 @@ __1 урок__
 __2 урок__
 *комманды git для работы с ветками*
 
-* *git branck* - 
-* *git checkout branch_name* - 
-* *git branch branch_name* - 
-* *git branch -d branch_name* -
-* *git merge branch_name* -
+* *git branck* - вызвать список веток
+* *git checkout branch_name* - прейти на опрделенную ветку
+* *git branch branch_name* - создать ветку
+* *git branch -d branch_name* -удалить ветку
+* *git merge branch_name* -слияние веток. делается из материнской ветки
 ***
 
 ## заключение 
