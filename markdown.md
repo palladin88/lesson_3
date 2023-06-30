@@ -35,6 +35,11 @@ __1 урок__
 __2 урок__
 *комманды git для работы с ветками*
 
+* *git branck* - 
+* *git checkout branch_name* - 
+* *git branch branch_name* - 
+* *git branch -d branch_name* -
+* *git merge branch_name* -
 ***
 
 ## заключение 
