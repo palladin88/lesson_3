@@ -40,6 +40,7 @@ __2 урок__
 * *git branch branch_name* - создать ветку
 * *git branch -d branch_name* -удалить ветку
 * *git merge branch_name* -слияние веток. делается из материнской ветки
+* *git log --graph* - показать сохранения в виде графика
 ***
 
 ## заключение 
